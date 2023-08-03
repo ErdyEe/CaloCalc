@@ -23,7 +23,7 @@ From this screen, the user logs into the application.
 ### SignUp
 You can register for the application by entering your information on the 'Sign Up' screen. It is important to fill in all fields and meet the necessary requirements. If the required conditions are not met, the user will be informed. Upon successful registration, the user will also be notified
 
-![SingUp](/Git%20Images/SignUp.PNG)
+ ![SingUp](/Git%20Images/SignUp.PNG)
 
 ### Home
 The user can view the foods consumed throughout the day and their nutritional values based on meals. They can go to the 'addFood' page to add a new meal.
